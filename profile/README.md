@@ -67,16 +67,19 @@
 3. 가족 간 계정 공유를 통한 고령층들의 구매 간편화 (디지털 격차 최소화)
    <br/><br/>
 
-## 📐 Screenshots
+## 🖼 Screenshots
 
 <img width="1746" alt="nanum" src="https://github.com/Team-Algebra/boonbae-backend/assets/70826982/012a16e0-74c9-4630-95ac-5c126b98b25e">
+
+<br/>
 
 ## 📐 Architecture
 
 <img width="873" alt="image" src="https://github.com/Team-Algebra/boonbae-backend/assets/70826982/0e720d28-25c7-4086-ab84-930942415f6d">
 
 <br/>
+<br/>
 
-## 🖼 E-R Diagram
+## 📖 E-R Diagram
 
 ![nanum_db](https://github.com/Team-Algebra/boonbae-backend/assets/70826982/60f3630f-ee25-4c09-9b76-ac996d15e9b5)
