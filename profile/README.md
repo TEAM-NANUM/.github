@@ -29,11 +29,11 @@
         </a>
     </td>
     <td>
+        <a href="https://github.com/lhetl">
+            <img src="https://avatars.githubusercontent.com/u/93638355?v=4" width="100px" />
+        </a>
     </td>
     <td>
-        <a href="">
-            <img src="https://file.notion.so/f/s/53a25808-b072-49f3-93a6-c6634616e34e/Untitled.png?id=0a5ca79c-c126-4685-bc13-849cf5c4f615&table=block&spaceId=cb19f5d6-847b-4546-9532-48443f723a37&expirationTimestamp=1692612000000&signature=9cnf_2jzgr7N-Zz0nR0spt4Li3XAnbN_JTD5D5FhFVc&downloadName=Untitled.png" width="100px" />
-        </a>
     </td>
 
   </tr>
@@ -49,8 +49,8 @@
     <td><b>FE Owner</b></td>
     <td><b>FE Developer</b></td>
     <td><b>BE Owner</b></td>
+    <td><b>BE & FE Developer</b></td>
     <td><b>BE Developer</b></td>
-    <td><b>FE & BE Developer</b></td>
     <td><b>Designer</b></td>
   </tr>
 </table>
