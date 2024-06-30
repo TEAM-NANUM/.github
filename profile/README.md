@@ -29,9 +29,6 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/lhetl">
-            <img src="https://avatars.githubusercontent.com/u/93638355?v=4" width="100px" />
-        </a>
     </td>
     <td>
         <a href="">
@@ -53,7 +50,7 @@
     <td><b>FE Developer</b></td>
     <td><b>BE Owner</b></td>
     <td><b>BE Developer</b></td>
-    <td><b>BE Developer</b></td>
+    <td><b>FE & BE Developer</b></td>
     <td><b>Designer</b></td>
   </tr>
 </table>
